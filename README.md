@@ -1,0 +1,2 @@
+# HOSPITAL-MANAGEMENT-SYSTEM_SEM-I
+1st semester project
